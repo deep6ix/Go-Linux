@@ -1,0 +1,5 @@
+package gols
+
+func main() {
+
+}
